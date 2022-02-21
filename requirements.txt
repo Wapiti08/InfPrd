@@ -1,2 +1,4 @@
 Dask==2021.2.0
 networkx==2.4
+stellargraph==1.2.1
+node2vec==0.4.4
